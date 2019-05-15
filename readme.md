@@ -5,7 +5,7 @@
 ## Purpose
 This readme serves as both a report for the final project and as a tutorial for the application.
 
-## 1. Project Description & Overwiew
+## 1. Project Description & Overview
 Pac Man Retribution is a project built using Unity for the final project of CS 4610 - Computer Graphics 1. We created a Pac-Man style game with a twist: Pacman can shoot and kill enemies. At the start of the game, player will be spawned in a randomly generated maze where they need to collect pellets, defeat enemies, and acquire upgrades and powerups to survive. New enemies will spawn at a rate (which increases every level). There four different types of enemies that spawn around the maze. Details about each type of enemy can be viewed in the about menu of the game (in short, there is a normal enemy, a fast enemy, a slow enemy, and a special enemy). Level increases every 20 seconds, which increments player & enemy stats. At certain levels, the player will receive a random upgrade, new enemies might spawn, and/or pellets regenerate throughout the maze. There are also powerups which spawn randomly around the maze which the player can collect. Each type of power up has a different effect on the player which is explained in detail in the about menu of the game.  The goal of the game is to survive as long as you can and to get the best score. Players' high score will be saved and can be viewed in the main menu.
 
 ## 2. Methods and Implementation

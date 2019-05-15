@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{878DD787-4A88-C5B9-9C01-491B97FA73EA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ButtonClick.cs">
+    <Files>
+      <File FileName="Assets/Our Shaders/testshader.shader" Line="5" Column="35" />
+      <File FileName="Assets/Our Shaders/testshader2.shader" Line="1" Column="1" />
+      <File FileName="Assets/MazeGenerator/Scripts/MazeSpawner.cs" Line="36" Column="45" />
+      <File FileName="Assets/MazeGenerator/Scripts/RecursiveMazeGenerator.cs" Line="46" Column="5" />
+      <File FileName="Assets/MazeGenerator/Scripts/MazeCell.cs" Line="1" Column="1" />
+      <File FileName="Assets/MazeGenerator/Scripts/DivisionMazeGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets/MazeGenerator/Scripts/BasicMazeGenerator.cs" Line="1" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.textmeshpro@2.0.0/Scripts/Runtime/TextMeshProUGUI.cs" Line="23" Column="22" />
+      <File FileName="Assets/Our Scripts/Projectile.cs" Line="37" Column="38" />
+      <File FileName="Assets/Our Scripts/Wall.cs" Line="17" Column="8" />
+      <File FileName="Assets/Our Scripts/Colorer.cs" Line="28" Column="26" />
+      <File FileName="Assets/Our Scripts/Enemy.cs" Line="281" Column="29" />
+      <File FileName="Assets/MazeGenerator/Scripts/EnemyProps.cs" Line="258" Column="1" />
+      <File FileName="Assets/MazeGenerator/Scripts/EnemyPiece.cs" Line="1" Column="1" />
+      <File FileName="Assets/MazeGenerator/Scripts/NavTest.cs" Line="18" Column="1" />
+      <File FileName="Assets/MazeGenerator/Scripts/RecursiveTreeMazeGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Our Scripts/Music.cs" Line="10" Column="37" />
+      <File FileName="Assets/Our Scripts/Pellet.cs" Line="27" Column="55" />
+      <File FileName="Assets/MazeGenerator/Scripts/RandomTreeMazeGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets/MazeGenerator/Scripts/RollerBall.cs" Line="479" Column="35" />
+      <File FileName="Assets/Our Scripts/ImageController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Our Scripts/PowerupControl.cs" Line="38" Column="39" />
+      <File FileName="Assets/Our Scripts/Powerup.cs" Line="19" Column="43" />
+      <File FileName="Assets/Our Scripts/highscore.cs" Line="19" Column="73" />
+      <File FileName="Assets/Our Scripts/MainMenu.cs" Line="10" Column="28" />
+      <File FileName="Assets/ButtonClick.cs" Line="11" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

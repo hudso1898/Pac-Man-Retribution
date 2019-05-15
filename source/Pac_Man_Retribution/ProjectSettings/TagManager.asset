@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Coin
+  - ScoreDisplay
+  - Pellet
+  - defProj
+  - Wall
+  - Obstacle
+  - Enemy
+  - TimeDisplay
+  - LevelDisplay
+  - Floor
+  - Coin
+  - Wall
+  - Powerup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - floor
+  - enemy
+  - voxels
+  - walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: 1
+    uniqueID: 1146104877
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
